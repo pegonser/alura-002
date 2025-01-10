@@ -2,6 +2,7 @@
 Nesse projeto, criei um clone de um website da Alura com a ajuda da instrutora.
 
 Curso: HTML e CSS: praticando HTML/CSS
+
 Link: https://www.alura.com.br/curso-online-html-css-praticando-html-css
 
 ## Tecnologias que aprendi com o curso:
